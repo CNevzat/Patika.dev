@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\bin\Debug\Odev1.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\bin\Debug\Odev1.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\obj\Debug\Odev1.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\obj\Debug\Odev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\obj\Debug\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\obj\Debug\Odev1.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev1\obj\Debug\Odev1.pdb
