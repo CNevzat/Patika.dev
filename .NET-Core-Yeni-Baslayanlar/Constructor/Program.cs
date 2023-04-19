@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class
+namespace Constructor
 {
 	public class Program
 	{
@@ -27,7 +27,7 @@ namespace Class
 			// * Internal
 			// * Protected
 			Console.WriteLine("*****Çalışan 1******");
-			Calisan calisan1 = new Calisan("Nevzat","Çırpıcıoğlu",1806538,"IT");
+			Calisan calisan1 = new Calisan("Nevzat", "Çırpıcıoğlu", 1806538, "IT");
 			calisan1.CalisanBilgileri();
 
 			Console.WriteLine("*****Çalışan 2******");
@@ -41,6 +41,7 @@ namespace Class
 			Console.WriteLine("*****Çalışan 3******");
 			Calisan calisan3 = new Calisan("Nevzat","Çırpıcıoğlu");
 			calisan3.CalisanBilgileri();
+			Console.ReadKey();
 		}
 
 		class Calisan
@@ -54,12 +55,16 @@ namespace Class
 			{
 				this.Ad = ad;
 				this.Soyad = soyad;
-				this.No = no;	
-				this.Departman = departman;	
+				this.No = no;
+				this.Departman = departman;
 			}
 			public Calisan() { } //Constructor 2
 
-			public Calisan(string ad, string soyad) { } // Constructor 3
+			public Calisan(string ad, string soyad) 
+			{
+				this.Ad= ad;
+				this.Soyad= soyad;
+			} 
 			public void CalisanBilgileri()
 			{
 				Console.WriteLine("Çalışanın Adı: {0}", Ad);
