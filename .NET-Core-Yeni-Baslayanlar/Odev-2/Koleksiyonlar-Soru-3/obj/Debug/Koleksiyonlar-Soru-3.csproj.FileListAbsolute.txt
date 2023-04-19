@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Odev-2\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.pdb
