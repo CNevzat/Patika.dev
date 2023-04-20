@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\bin\Debug\Proje-1 Console Telefon Rehberi Uygulaması.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\bin\Debug\Proje-1 Console Telefon Rehberi Uygulaması.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\bin\Debug\Proje-1 Console Telefon Rehberi Uygulaması.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\obj\Debug\Proje-1 Console Telefon Rehberi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\obj\Debug\Proje-1 Console Telefon Rehberi Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\obj\Debug\Proje-1 Console Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\obj\Debug\Proje-1 Console Telefon Rehberi Uygulaması.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Proje-1 Console Telefon Rehberi Uygulaması\obj\Debug\Proje-1 Console Telefon Rehberi Uygulaması.pdb
