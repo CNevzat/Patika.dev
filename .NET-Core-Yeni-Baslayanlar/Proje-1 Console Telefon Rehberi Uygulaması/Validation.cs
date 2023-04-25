@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proje_1_Console_Telefon_Rehberi_Uygulaması
 {
-	internal class Kisiler
+	internal class Validation
 	{
 	}
 }
