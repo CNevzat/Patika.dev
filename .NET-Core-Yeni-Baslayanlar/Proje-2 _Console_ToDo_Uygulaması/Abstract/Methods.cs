@@ -9,5 +9,7 @@ namespace Proje_2__Console_ToDo_Uygulaması.Abstract
 	public interface Methods
 	{
 		void List(Board board);
+		void AddCard(Board board);
+
 	}
 }

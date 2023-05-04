@@ -18,5 +18,10 @@ namespace Proje_2__Console_ToDo_Uygulaması
 		}
 		public int TeamMemberID { get => teamMemberID; set => teamMemberID = value; }
 		public string TeamMemberName { get => teamMemberName; set => teamMemberName = value; }
+
+		public TeamMember GetTeamMemberByID(int id)
+		{
+			return teamMembers.Find(x => x.TeamMemberID == id);
+		}
 	}
 }
