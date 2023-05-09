@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.pdb
