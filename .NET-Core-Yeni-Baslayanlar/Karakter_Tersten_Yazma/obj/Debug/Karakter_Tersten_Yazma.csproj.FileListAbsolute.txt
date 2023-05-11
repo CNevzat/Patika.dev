@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\bin\Debug\Karakter_Tersten_Yazma.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\bin\Debug\Karakter_Tersten_Yazma.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\bin\Debug\Karakter_Tersten_Yazma.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\obj\Debug\Karakter_Tersten_Yazma.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\obj\Debug\Karakter_Tersten_Yazma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\obj\Debug\Karakter_Tersten_Yazma.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\obj\Debug\Karakter_Tersten_Yazma.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Tersten_Yazma\obj\Debug\Karakter_Tersten_Yazma.pdb
