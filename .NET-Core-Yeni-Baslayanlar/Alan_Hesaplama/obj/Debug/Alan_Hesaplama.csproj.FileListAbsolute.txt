@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.pdb
