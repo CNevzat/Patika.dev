@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\bin\Debug\Integer_Ikililerin_Toplamı.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\bin\Debug\Integer_Ikililerin_Toplamı.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\bin\Debug\Integer_Ikililerin_Toplamı.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\obj\Debug\Integer_Ikililerin_Toplamı.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\obj\Debug\Integer_Ikililerin_Toplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\obj\Debug\Integer_Ikililerin_Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\obj\Debug\Integer_Ikililerin_Toplamı.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Integer_Ikililerin_Toplamı\obj\Debug\Integer_Ikililerin_Toplamı.pdb
