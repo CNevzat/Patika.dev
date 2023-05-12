@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\bin\Debug\Mutlak_Kare.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\bin\Debug\Mutlak_Kare.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\bin\Debug\Mutlak_Kare.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\obj\Debug\Mutlak_Kare.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\obj\Debug\Mutlak_Kare.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\obj\Debug\Mutlak_Kare.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\obj\Debug\Mutlak_Kare.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Mutlak_Kare\obj\Debug\Mutlak_Kare.pdb
