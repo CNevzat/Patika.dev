@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\bin\Debug\Sessiz_Harf.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\bin\Debug\Sessiz_Harf.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\bin\Debug\Sessiz_Harf.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\obj\Debug\Sessiz_Harf.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\obj\Debug\Sessiz_Harf.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\obj\Debug\Sessiz_Harf.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\obj\Debug\Sessiz_Harf.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Sessiz_Harf\obj\Debug\Sessiz_Harf.pdb
