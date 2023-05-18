@@ -1,0 +1,8 @@
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\bin\Debug\Karakter_Degistirme.exe.config
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\bin\Debug\Karakter_Degistirme.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\bin\Debug\Karakter_Degistirme.pdb
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\obj\Debug\Karakter_Degistirme.csproj.AssemblyReference.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\obj\Debug\Karakter_Degistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\obj\Debug\Karakter_Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\obj\Debug\Karakter_Degistirme.exe
+C:\Users\ncirp\source\repos\Patika.dev\.NET-Core-Yeni-Baslayanlar\Karakter_Degistirme\obj\Debug\Karakter_Degistirme.pdb
