@@ -17,24 +17,29 @@ namespace ATM_App
 
 			if (userContoller.Login()) //login true dönüyorsa
 			{
+				Menu:
 				Console.WriteLine("1- Para Çekme \n2- Para Yatırma \n3- Para Transferi \n4- Gun Sonu");
 				int choice = int.Parse(Console.ReadLine());
 
 				if (choice == 1)
 				{
 					transactionController.drawMoney();
+					goto Menu;
 				}
 				else if (choice == 2)
 				{
 					transactionController.depositMoney();
+					goto Menu;
 				}
 				else if (choice == 3) 
 				{
 					transactionController.MoneyTransfer();
+					goto Menu;
 				}
 				else if(choice == 4) 
 				{
 					transactionController.ListTransactions();
+					goto Menu;
 				}
 			}
 		}

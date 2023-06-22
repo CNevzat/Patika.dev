@@ -126,7 +126,7 @@ namespace ATM_App.Controller
 			//create .txt file and process
 			if (tm.ListAllTransactions() != null)
 			{
-				StreamWriter File = new StreamWriter("C://Users//ncirp//Desktop//Para_Transferleri_Gun_Sonu.txt");
+				StreamWriter File = new StreamWriter("C://Users//ncirp//Desktop//"+DateTime.Now.ToString("MM/dd/yyyy")+".txt");
 				foreach (var item in tm.ListAllTransactions())
 				{
 					Console.WriteLine("*************");
