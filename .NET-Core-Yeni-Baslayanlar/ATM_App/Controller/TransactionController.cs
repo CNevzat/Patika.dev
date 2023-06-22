@@ -127,6 +127,8 @@ namespace ATM_App.Controller
 			if (tm.ListAllTransactions() != null)
 			{
 				StreamWriter File = new StreamWriter("C://Users//ncirp//Desktop//"+DateTime.Now.ToString("MM/dd/yyyy")+".txt");
+				//Metin belgesi oluşturma kısmını generic yapamadım. Oluşturulan dosyalar benim masaüstümde geçerli. 
+				//Test edilmesi için url kısmına kendi masaüstü yolunuzu girmeniz gerekmektedir.
 				foreach (var item in tm.ListAllTransactions())
 				{
 					Console.WriteLine("*************");
